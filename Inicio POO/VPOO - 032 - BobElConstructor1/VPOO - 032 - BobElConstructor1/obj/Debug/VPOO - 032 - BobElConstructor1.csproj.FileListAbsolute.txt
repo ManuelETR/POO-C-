@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 032 - BobElConstructor1\VPOO - 032 - BobElConstructor1\bin\Debug\VPOO - 032 - BobElConstructor1.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 032 - BobElConstructor1\VPOO - 032 - BobElConstructor1\bin\Debug\VPOO - 032 - BobElConstructor1.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 032 - BobElConstructor1\VPOO - 032 - BobElConstructor1\bin\Debug\VPOO - 032 - BobElConstructor1.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 032 - BobElConstructor1\VPOO - 032 - BobElConstructor1\obj\Debug\VPOO - 032 - BobElConstructor1.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 032 - BobElConstructor1\VPOO - 032 - BobElConstructor1\obj\Debug\VPOO - 032 - BobElConstructor1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 032 - BobElConstructor1\VPOO - 032 - BobElConstructor1\obj\Debug\VPOO - 032 - BobElConstructor1.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 032 - BobElConstructor1\VPOO - 032 - BobElConstructor1\obj\Debug\VPOO - 032 - BobElConstructor1.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 032 - BobElConstructor1\VPOO - 032 - BobElConstructor1\obj\Debug\VPOO - 032 - BobElConstructor1.pdb

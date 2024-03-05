@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 007 - tablaMultiplicarMetodo\VPOO - 007 - tablaMultiplicarMetodo\bin\Debug\VPOO - 007 - tablaMultiplicarMetodo.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 007 - tablaMultiplicarMetodo\VPOO - 007 - tablaMultiplicarMetodo\bin\Debug\VPOO - 007 - tablaMultiplicarMetodo.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 007 - tablaMultiplicarMetodo\VPOO - 007 - tablaMultiplicarMetodo\bin\Debug\VPOO - 007 - tablaMultiplicarMetodo.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 007 - tablaMultiplicarMetodo\VPOO - 007 - tablaMultiplicarMetodo\obj\Debug\VPOO - 007 - tablaMultiplicarMetodo.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 007 - tablaMultiplicarMetodo\VPOO - 007 - tablaMultiplicarMetodo\obj\Debug\VPOO - 007 - tablaMultiplicarMetodo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 007 - tablaMultiplicarMetodo\VPOO - 007 - tablaMultiplicarMetodo\obj\Debug\VPOO - 007 - tablaMultiplicarMetodo.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 007 - tablaMultiplicarMetodo\VPOO - 007 - tablaMultiplicarMetodo\obj\Debug\VPOO - 007 - tablaMultiplicarMetodo.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 007 - tablaMultiplicarMetodo\VPOO - 007 - tablaMultiplicarMetodo\obj\Debug\VPOO - 007 - tablaMultiplicarMetodo.pdb

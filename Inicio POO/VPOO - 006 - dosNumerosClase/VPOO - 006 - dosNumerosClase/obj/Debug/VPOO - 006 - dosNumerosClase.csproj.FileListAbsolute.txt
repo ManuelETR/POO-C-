@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 006 - dosNumerosClase\VPOO - 006 - dosNumerosClase\bin\Debug\VPOO - 006 - dosNumerosClase.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 006 - dosNumerosClase\VPOO - 006 - dosNumerosClase\bin\Debug\VPOO - 006 - dosNumerosClase.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 006 - dosNumerosClase\VPOO - 006 - dosNumerosClase\bin\Debug\VPOO - 006 - dosNumerosClase.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 006 - dosNumerosClase\VPOO - 006 - dosNumerosClase\obj\Debug\VPOO - 006 - dosNumerosClase.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 006 - dosNumerosClase\VPOO - 006 - dosNumerosClase\obj\Debug\VPOO - 006 - dosNumerosClase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 006 - dosNumerosClase\VPOO - 006 - dosNumerosClase\obj\Debug\VPOO - 006 - dosNumerosClase.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 006 - dosNumerosClase\VPOO - 006 - dosNumerosClase\obj\Debug\VPOO - 006 - dosNumerosClase.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 006 - dosNumerosClase\VPOO - 006 - dosNumerosClase\obj\Debug\VPOO - 006 - dosNumerosClase.pdb

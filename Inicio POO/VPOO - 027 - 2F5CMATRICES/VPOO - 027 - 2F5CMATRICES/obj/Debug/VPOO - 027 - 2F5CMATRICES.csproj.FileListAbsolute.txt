@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 027 - 2F5CMATRICES\VPOO - 027 - 2F5CMATRICES\bin\Debug\VPOO - 027 - 2F5CMATRICES.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 027 - 2F5CMATRICES\VPOO - 027 - 2F5CMATRICES\bin\Debug\VPOO - 027 - 2F5CMATRICES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 027 - 2F5CMATRICES\VPOO - 027 - 2F5CMATRICES\bin\Debug\VPOO - 027 - 2F5CMATRICES.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 027 - 2F5CMATRICES\VPOO - 027 - 2F5CMATRICES\obj\Debug\VPOO - 027 - 2F5CMATRICES.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 027 - 2F5CMATRICES\VPOO - 027 - 2F5CMATRICES\obj\Debug\VPOO - 027 - 2F5CMATRICES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 027 - 2F5CMATRICES\VPOO - 027 - 2F5CMATRICES\obj\Debug\VPOO - 027 - 2F5CMATRICES.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 027 - 2F5CMATRICES\VPOO - 027 - 2F5CMATRICES\obj\Debug\VPOO - 027 - 2F5CMATRICES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 027 - 2F5CMATRICES\VPOO - 027 - 2F5CMATRICES\obj\Debug\VPOO - 027 - 2F5CMATRICES.pdb

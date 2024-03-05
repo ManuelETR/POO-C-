@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 024 - nNumerosORDENAMIENTO\VPOO - 024 - nNumerosORDENAMIENTO\bin\Debug\VPOO - 024 - nNumerosORDENAMIENTO.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 024 - nNumerosORDENAMIENTO\VPOO - 024 - nNumerosORDENAMIENTO\bin\Debug\VPOO - 024 - nNumerosORDENAMIENTO.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 024 - nNumerosORDENAMIENTO\VPOO - 024 - nNumerosORDENAMIENTO\bin\Debug\VPOO - 024 - nNumerosORDENAMIENTO.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 024 - nNumerosORDENAMIENTO\VPOO - 024 - nNumerosORDENAMIENTO\obj\Debug\VPOO - 024 - nNumerosORDENAMIENTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 024 - nNumerosORDENAMIENTO\VPOO - 024 - nNumerosORDENAMIENTO\obj\Debug\VPOO - 024 - nNumerosORDENAMIENTO.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 024 - nNumerosORDENAMIENTO\VPOO - 024 - nNumerosORDENAMIENTO\obj\Debug\VPOO - 024 - nNumerosORDENAMIENTO.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 024 - nNumerosORDENAMIENTO\VPOO - 024 - nNumerosORDENAMIENTO\obj\Debug\VPOO - 024 - nNumerosORDENAMIENTO.pdb

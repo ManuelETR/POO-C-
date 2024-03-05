@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 035 - BobElConstructor4\VPOO - 035 - BobElConstructor4\bin\Debug\VPOO - 035 - BobElConstructor4.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 035 - BobElConstructor4\VPOO - 035 - BobElConstructor4\bin\Debug\VPOO - 035 - BobElConstructor4.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 035 - BobElConstructor4\VPOO - 035 - BobElConstructor4\bin\Debug\VPOO - 035 - BobElConstructor4.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 035 - BobElConstructor4\VPOO - 035 - BobElConstructor4\obj\Debug\VPOO - 035 - BobElConstructor4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 035 - BobElConstructor4\VPOO - 035 - BobElConstructor4\obj\Debug\VPOO - 035 - BobElConstructor4.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 035 - BobElConstructor4\VPOO - 035 - BobElConstructor4\obj\Debug\VPOO - 035 - BobElConstructor4.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 035 - BobElConstructor4\VPOO - 035 - BobElConstructor4\obj\Debug\VPOO - 035 - BobElConstructor4.pdb

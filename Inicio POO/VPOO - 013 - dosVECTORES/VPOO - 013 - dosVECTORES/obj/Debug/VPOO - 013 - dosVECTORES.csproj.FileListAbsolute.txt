@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 013 - dosVECTORES\VPOO - 013 - dosVECTORES\bin\Debug\VPOO - 013 - dosVECTORES.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 013 - dosVECTORES\VPOO - 013 - dosVECTORES\bin\Debug\VPOO - 013 - dosVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 013 - dosVECTORES\VPOO - 013 - dosVECTORES\bin\Debug\VPOO - 013 - dosVECTORES.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 013 - dosVECTORES\VPOO - 013 - dosVECTORES\obj\Debug\VPOO - 013 - dosVECTORES.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 013 - dosVECTORES\VPOO - 013 - dosVECTORES\obj\Debug\VPOO - 013 - dosVECTORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 013 - dosVECTORES\VPOO - 013 - dosVECTORES\obj\Debug\VPOO - 013 - dosVECTORES.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 013 - dosVECTORES\VPOO - 013 - dosVECTORES\obj\Debug\VPOO - 013 - dosVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 013 - dosVECTORES\VPOO - 013 - dosVECTORES\obj\Debug\VPOO - 013 - dosVECTORES.pdb

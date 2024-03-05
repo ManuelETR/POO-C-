@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 037 - Colaboracion2\VPOO - 037 - Colaboracion2\bin\Debug\VPOO - 037 - Colaboracion2.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 037 - Colaboracion2\VPOO - 037 - Colaboracion2\bin\Debug\VPOO - 037 - Colaboracion2.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 037 - Colaboracion2\VPOO - 037 - Colaboracion2\bin\Debug\VPOO - 037 - Colaboracion2.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 037 - Colaboracion2\VPOO - 037 - Colaboracion2\obj\Debug\VPOO - 037 - Colaboracion2.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 037 - Colaboracion2\VPOO - 037 - Colaboracion2\obj\Debug\VPOO - 037 - Colaboracion2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 037 - Colaboracion2\VPOO - 037 - Colaboracion2\obj\Debug\VPOO - 037 - Colaboracion2.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 037 - Colaboracion2\VPOO - 037 - Colaboracion2\obj\Debug\VPOO - 037 - Colaboracion2.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 037 - Colaboracion2\VPOO - 037 - Colaboracion2\obj\Debug\VPOO - 037 - Colaboracion2.pdb

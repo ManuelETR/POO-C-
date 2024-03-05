@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 023 - paisesVECTORES\VPOO - 023 - paisesVECTORES\bin\Debug\VPOO - 023 - paisesVECTORES.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 023 - paisesVECTORES\VPOO - 023 - paisesVECTORES\bin\Debug\VPOO - 023 - paisesVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 023 - paisesVECTORES\VPOO - 023 - paisesVECTORES\bin\Debug\VPOO - 023 - paisesVECTORES.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 023 - paisesVECTORES\VPOO - 023 - paisesVECTORES\obj\Debug\VPOO - 023 - paisesVECTORES.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 023 - paisesVECTORES\VPOO - 023 - paisesVECTORES\obj\Debug\VPOO - 023 - paisesVECTORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 023 - paisesVECTORES\VPOO - 023 - paisesVECTORES\obj\Debug\VPOO - 023 - paisesVECTORES.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 023 - paisesVECTORES\VPOO - 023 - paisesVECTORES\obj\Debug\VPOO - 023 - paisesVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 023 - paisesVECTORES\VPOO - 023 - paisesVECTORES\obj\Debug\VPOO - 023 - paisesVECTORES.pdb

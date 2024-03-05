@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 015 - 10numerosVECTORES\VPOO - 015 - 10numerosVECTORES\bin\Debug\VPOO - 015 - 10numerosVECTORES.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 015 - 10numerosVECTORES\VPOO - 015 - 10numerosVECTORES\bin\Debug\VPOO - 015 - 10numerosVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 015 - 10numerosVECTORES\VPOO - 015 - 10numerosVECTORES\bin\Debug\VPOO - 015 - 10numerosVECTORES.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 015 - 10numerosVECTORES\VPOO - 015 - 10numerosVECTORES\obj\Debug\VPOO - 015 - 10numerosVECTORES.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 015 - 10numerosVECTORES\VPOO - 015 - 10numerosVECTORES\obj\Debug\VPOO - 015 - 10numerosVECTORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 015 - 10numerosVECTORES\VPOO - 015 - 10numerosVECTORES\obj\Debug\VPOO - 015 - 10numerosVECTORES.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 015 - 10numerosVECTORES\VPOO - 015 - 10numerosVECTORES\obj\Debug\VPOO - 015 - 10numerosVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 015 - 10numerosVECTORES\VPOO - 015 - 10numerosVECTORES\obj\Debug\VPOO - 015 - 10numerosVECTORES.pdb

@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 004 - cuadradoClase\VPOO - 004 - cuadradoClase\bin\Debug\VPOO - 004 - cuadradoClase.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 004 - cuadradoClase\VPOO - 004 - cuadradoClase\bin\Debug\VPOO - 004 - cuadradoClase.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 004 - cuadradoClase\VPOO - 004 - cuadradoClase\bin\Debug\VPOO - 004 - cuadradoClase.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 004 - cuadradoClase\VPOO - 004 - cuadradoClase\obj\Debug\VPOO - 004 - cuadradoClase.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 004 - cuadradoClase\VPOO - 004 - cuadradoClase\obj\Debug\VPOO - 004 - cuadradoClase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 004 - cuadradoClase\VPOO - 004 - cuadradoClase\obj\Debug\VPOO - 004 - cuadradoClase.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 004 - cuadradoClase\VPOO - 004 - cuadradoClase\obj\Debug\VPOO - 004 - cuadradoClase.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 004 - cuadradoClase\VPOO - 004 - cuadradoClase\obj\Debug\VPOO - 004 - cuadradoClase.pdb

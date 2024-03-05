@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 021 - menorRepetidoVECTORES\VPOO - 021 - menorRepetidoVECTORES\bin\Debug\VPOO - 021 - menorRepetidoVECTORES.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 021 - menorRepetidoVECTORES\VPOO - 021 - menorRepetidoVECTORES\bin\Debug\VPOO - 021 - menorRepetidoVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 021 - menorRepetidoVECTORES\VPOO - 021 - menorRepetidoVECTORES\bin\Debug\VPOO - 021 - menorRepetidoVECTORES.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 021 - menorRepetidoVECTORES\VPOO - 021 - menorRepetidoVECTORES\obj\Debug\VPOO - 021 - menorRepetidoVECTORES.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 021 - menorRepetidoVECTORES\VPOO - 021 - menorRepetidoVECTORES\obj\Debug\VPOO - 021 - menorRepetidoVECTORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 021 - menorRepetidoVECTORES\VPOO - 021 - menorRepetidoVECTORES\obj\Debug\VPOO - 021 - menorRepetidoVECTORES.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 021 - menorRepetidoVECTORES\VPOO - 021 - menorRepetidoVECTORES\obj\Debug\VPOO - 021 - menorRepetidoVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 021 - menorRepetidoVECTORES\VPOO - 021 - menorRepetidoVECTORES\obj\Debug\VPOO - 021 - menorRepetidoVECTORES.pdb

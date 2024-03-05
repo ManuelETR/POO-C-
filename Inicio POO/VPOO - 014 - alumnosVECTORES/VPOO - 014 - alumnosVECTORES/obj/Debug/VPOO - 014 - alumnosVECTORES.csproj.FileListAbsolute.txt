@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 014 - alumnosVECTORES\VPOO - 014 - alumnosVECTORES\bin\Debug\VPOO - 014 - alumnosVECTORES.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 014 - alumnosVECTORES\VPOO - 014 - alumnosVECTORES\bin\Debug\VPOO - 014 - alumnosVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 014 - alumnosVECTORES\VPOO - 014 - alumnosVECTORES\bin\Debug\VPOO - 014 - alumnosVECTORES.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 014 - alumnosVECTORES\VPOO - 014 - alumnosVECTORES\obj\Debug\VPOO - 014 - alumnosVECTORES.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 014 - alumnosVECTORES\VPOO - 014 - alumnosVECTORES\obj\Debug\VPOO - 014 - alumnosVECTORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 014 - alumnosVECTORES\VPOO - 014 - alumnosVECTORES\obj\Debug\VPOO - 014 - alumnosVECTORES.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 014 - alumnosVECTORES\VPOO - 014 - alumnosVECTORES\obj\Debug\VPOO - 014 - alumnosVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 014 - alumnosVECTORES\VPOO - 014 - alumnosVECTORES\obj\Debug\VPOO - 014 - alumnosVECTORES.pdb

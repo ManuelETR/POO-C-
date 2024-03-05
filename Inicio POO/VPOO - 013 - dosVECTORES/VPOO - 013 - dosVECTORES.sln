@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPOO - 013 - dosVECTORES", "VPOO - 013 - dosVECTORES\VPOO - 013 - dosVECTORES.csproj", "{0D0E8E5C-D414-41EC-B933-5D6FCB3FE13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D0E8E5C-D414-41EC-B933-5D6FCB3FE13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0E8E5C-D414-41EC-B933-5D6FCB3FE13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0E8E5C-D414-41EC-B933-5D6FCB3FE13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0E8E5C-D414-41EC-B933-5D6FCB3FE13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2877F99F-9BF5-4CE3-92AD-F433E866C713}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 012 - ochoVECTORES\VPOO - 012 - ochoVECTORES\bin\Debug\VPOO - 012 - ochoVECTORES.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 012 - ochoVECTORES\VPOO - 012 - ochoVECTORES\bin\Debug\VPOO - 012 - ochoVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 012 - ochoVECTORES\VPOO - 012 - ochoVECTORES\bin\Debug\VPOO - 012 - ochoVECTORES.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 012 - ochoVECTORES\VPOO - 012 - ochoVECTORES\obj\Debug\VPOO - 012 - ochoVECTORES.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 012 - ochoVECTORES\VPOO - 012 - ochoVECTORES\obj\Debug\VPOO - 012 - ochoVECTORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 012 - ochoVECTORES\VPOO - 012 - ochoVECTORES\obj\Debug\VPOO - 012 - ochoVECTORES.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 012 - ochoVECTORES\VPOO - 012 - ochoVECTORES\obj\Debug\VPOO - 012 - ochoVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 012 - ochoVECTORES\VPOO - 012 - ochoVECTORES\obj\Debug\VPOO - 012 - ochoVECTORES.pdb

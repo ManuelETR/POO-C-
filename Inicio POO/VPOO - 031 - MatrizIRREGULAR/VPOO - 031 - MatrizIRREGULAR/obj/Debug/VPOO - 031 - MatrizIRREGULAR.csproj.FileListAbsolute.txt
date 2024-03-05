@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 031 - MatrizIRREGULAR\VPOO - 031 - MatrizIRREGULAR\bin\Debug\VPOO - 031 - MatrizIRREGULAR.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 031 - MatrizIRREGULAR\VPOO - 031 - MatrizIRREGULAR\bin\Debug\VPOO - 031 - MatrizIRREGULAR.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 031 - MatrizIRREGULAR\VPOO - 031 - MatrizIRREGULAR\bin\Debug\VPOO - 031 - MatrizIRREGULAR.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 031 - MatrizIRREGULAR\VPOO - 031 - MatrizIRREGULAR\obj\Debug\VPOO - 031 - MatrizIRREGULAR.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 031 - MatrizIRREGULAR\VPOO - 031 - MatrizIRREGULAR\obj\Debug\VPOO - 031 - MatrizIRREGULAR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 031 - MatrizIRREGULAR\VPOO - 031 - MatrizIRREGULAR\obj\Debug\VPOO - 031 - MatrizIRREGULAR.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 031 - MatrizIRREGULAR\VPOO - 031 - MatrizIRREGULAR\obj\Debug\VPOO - 031 - MatrizIRREGULAR.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 031 - MatrizIRREGULAR\VPOO - 031 - MatrizIRREGULAR\obj\Debug\VPOO - 031 - MatrizIRREGULAR.pdb

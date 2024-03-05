@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 030 - PaisesTemperaturas\VPOO - 030 - PaisesTemperaturas\bin\Debug\VPOO - 030 - PaisesTemperaturas.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 030 - PaisesTemperaturas\VPOO - 030 - PaisesTemperaturas\bin\Debug\VPOO - 030 - PaisesTemperaturas.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 030 - PaisesTemperaturas\VPOO - 030 - PaisesTemperaturas\bin\Debug\VPOO - 030 - PaisesTemperaturas.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 030 - PaisesTemperaturas\VPOO - 030 - PaisesTemperaturas\obj\Debug\VPOO - 030 - PaisesTemperaturas.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 030 - PaisesTemperaturas\VPOO - 030 - PaisesTemperaturas\obj\Debug\VPOO - 030 - PaisesTemperaturas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 030 - PaisesTemperaturas\VPOO - 030 - PaisesTemperaturas\obj\Debug\VPOO - 030 - PaisesTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 030 - PaisesTemperaturas\VPOO - 030 - PaisesTemperaturas\obj\Debug\VPOO - 030 - PaisesTemperaturas.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 030 - PaisesTemperaturas\VPOO - 030 - PaisesTemperaturas\obj\Debug\VPOO - 030 - PaisesTemperaturas.pdb

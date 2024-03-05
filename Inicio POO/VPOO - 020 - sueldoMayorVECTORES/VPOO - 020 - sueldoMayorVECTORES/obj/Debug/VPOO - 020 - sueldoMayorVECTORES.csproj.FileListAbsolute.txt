@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 020 - sueldoMayorVECTORES\VPOO - 020 - sueldoMayorVECTORES\bin\Debug\VPOO - 020 - sueldoMayorVECTORES.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 020 - sueldoMayorVECTORES\VPOO - 020 - sueldoMayorVECTORES\bin\Debug\VPOO - 020 - sueldoMayorVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 020 - sueldoMayorVECTORES\VPOO - 020 - sueldoMayorVECTORES\bin\Debug\VPOO - 020 - sueldoMayorVECTORES.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 020 - sueldoMayorVECTORES\VPOO - 020 - sueldoMayorVECTORES\obj\Debug\VPOO - 020 - sueldoMayorVECTORES.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 020 - sueldoMayorVECTORES\VPOO - 020 - sueldoMayorVECTORES\obj\Debug\VPOO - 020 - sueldoMayorVECTORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 020 - sueldoMayorVECTORES\VPOO - 020 - sueldoMayorVECTORES\obj\Debug\VPOO - 020 - sueldoMayorVECTORES.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 020 - sueldoMayorVECTORES\VPOO - 020 - sueldoMayorVECTORES\obj\Debug\VPOO - 020 - sueldoMayorVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 020 - sueldoMayorVECTORES\VPOO - 020 - sueldoMayorVECTORES\obj\Debug\VPOO - 020 - sueldoMayorVECTORES.pdb

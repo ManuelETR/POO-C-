@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 029 - MatrizconVectoresEMPLEADOS\VPOO - 029 - MatrizconVectoresEMPLEADOS\bin\Debug\VPOO - 029 - MatrizconVectoresEMPLEADOS.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 029 - MatrizconVectoresEMPLEADOS\VPOO - 029 - MatrizconVectoresEMPLEADOS\bin\Debug\VPOO - 029 - MatrizconVectoresEMPLEADOS.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 029 - MatrizconVectoresEMPLEADOS\VPOO - 029 - MatrizconVectoresEMPLEADOS\bin\Debug\VPOO - 029 - MatrizconVectoresEMPLEADOS.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 029 - MatrizconVectoresEMPLEADOS\VPOO - 029 - MatrizconVectoresEMPLEADOS\obj\Debug\VPOO - 029 - MatrizconVectoresEMPLEADOS.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 029 - MatrizconVectoresEMPLEADOS\VPOO - 029 - MatrizconVectoresEMPLEADOS\obj\Debug\VPOO - 029 - MatrizconVectoresEMPLEADOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 029 - MatrizconVectoresEMPLEADOS\VPOO - 029 - MatrizconVectoresEMPLEADOS\obj\Debug\VPOO - 029 - MatrizconVectoresEMPLEADOS.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 029 - MatrizconVectoresEMPLEADOS\VPOO - 029 - MatrizconVectoresEMPLEADOS\obj\Debug\VPOO - 029 - MatrizconVectoresEMPLEADOS.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 029 - MatrizconVectoresEMPLEADOS\VPOO - 029 - MatrizconVectoresEMPLEADOS\obj\Debug\VPOO - 029 - MatrizconVectoresEMPLEADOS.pdb

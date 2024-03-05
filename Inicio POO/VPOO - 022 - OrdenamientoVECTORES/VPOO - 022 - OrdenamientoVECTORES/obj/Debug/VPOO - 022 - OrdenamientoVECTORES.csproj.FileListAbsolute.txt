@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 022 - OrdenamientoVECTORES\VPOO - 022 - OrdenamientoVECTORES\bin\Debug\VPOO - 022 - OrdenamientoVECTORES.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 022 - OrdenamientoVECTORES\VPOO - 022 - OrdenamientoVECTORES\bin\Debug\VPOO - 022 - OrdenamientoVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 022 - OrdenamientoVECTORES\VPOO - 022 - OrdenamientoVECTORES\bin\Debug\VPOO - 022 - OrdenamientoVECTORES.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 022 - OrdenamientoVECTORES\VPOO - 022 - OrdenamientoVECTORES\obj\Debug\VPOO - 022 - OrdenamientoVECTORES.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 022 - OrdenamientoVECTORES\VPOO - 022 - OrdenamientoVECTORES\obj\Debug\VPOO - 022 - OrdenamientoVECTORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 022 - OrdenamientoVECTORES\VPOO - 022 - OrdenamientoVECTORES\obj\Debug\VPOO - 022 - OrdenamientoVECTORES.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 022 - OrdenamientoVECTORES\VPOO - 022 - OrdenamientoVECTORES\obj\Debug\VPOO - 022 - OrdenamientoVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 022 - OrdenamientoVECTORES\VPOO - 022 - OrdenamientoVECTORES\obj\Debug\VPOO - 022 - OrdenamientoVECTORES.pdb

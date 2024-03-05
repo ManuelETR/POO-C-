@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPOO - 028 - nxmMATRIZconORDEN", "VPOO - 028 - nxmMATRIZconORDEN\VPOO - 028 - nxmMATRIZconORDEN.csproj", "{1ED04BFD-53DE-4840-B0FB-B4C35DA9A3FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED04BFD-53DE-4840-B0FB-B4C35DA9A3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED04BFD-53DE-4840-B0FB-B4C35DA9A3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED04BFD-53DE-4840-B0FB-B4C35DA9A3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED04BFD-53DE-4840-B0FB-B4C35DA9A3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1EA7DFB-E70A-42E1-B56C-F18AF47FB7A8}
+	EndGlobalSection
+EndGlobal

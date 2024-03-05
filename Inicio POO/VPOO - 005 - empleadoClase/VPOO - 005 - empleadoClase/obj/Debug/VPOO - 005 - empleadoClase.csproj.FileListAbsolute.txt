@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 005 - empleadoClase\VPOO - 005 - empleadoClase\bin\Debug\VPOO - 005 - empleadoClase.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 005 - empleadoClase\VPOO - 005 - empleadoClase\bin\Debug\VPOO - 005 - empleadoClase.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 005 - empleadoClase\VPOO - 005 - empleadoClase\bin\Debug\VPOO - 005 - empleadoClase.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 005 - empleadoClase\VPOO - 005 - empleadoClase\obj\Debug\VPOO - 005 - empleadoClase.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 005 - empleadoClase\VPOO - 005 - empleadoClase\obj\Debug\VPOO - 005 - empleadoClase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 005 - empleadoClase\VPOO - 005 - empleadoClase\obj\Debug\VPOO - 005 - empleadoClase.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 005 - empleadoClase\VPOO - 005 - empleadoClase\obj\Debug\VPOO - 005 - empleadoClase.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 005 - empleadoClase\VPOO - 005 - empleadoClase\obj\Debug\VPOO - 005 - empleadoClase.pdb

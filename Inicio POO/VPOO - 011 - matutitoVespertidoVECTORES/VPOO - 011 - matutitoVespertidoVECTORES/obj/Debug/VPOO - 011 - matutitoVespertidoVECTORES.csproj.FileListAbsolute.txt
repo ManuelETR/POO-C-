@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 011 - matutitoVespertidoVECTORES\VPOO - 011 - matutitoVespertidoVECTORES\bin\Debug\VPOO - 011 - matutitoVespertidoVECTORES.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 011 - matutitoVespertidoVECTORES\VPOO - 011 - matutitoVespertidoVECTORES\bin\Debug\VPOO - 011 - matutitoVespertidoVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 011 - matutitoVespertidoVECTORES\VPOO - 011 - matutitoVespertidoVECTORES\bin\Debug\VPOO - 011 - matutitoVespertidoVECTORES.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 011 - matutitoVespertidoVECTORES\VPOO - 011 - matutitoVespertidoVECTORES\obj\Debug\VPOO - 011 - matutitoVespertidoVECTORES.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 011 - matutitoVespertidoVECTORES\VPOO - 011 - matutitoVespertidoVECTORES\obj\Debug\VPOO - 011 - matutitoVespertidoVECTORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 011 - matutitoVespertidoVECTORES\VPOO - 011 - matutitoVespertidoVECTORES\obj\Debug\VPOO - 011 - matutitoVespertidoVECTORES.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 011 - matutitoVespertidoVECTORES\VPOO - 011 - matutitoVespertidoVECTORES\obj\Debug\VPOO - 011 - matutitoVespertidoVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 011 - matutitoVespertidoVECTORES\VPOO - 011 - matutitoVespertidoVECTORES\obj\Debug\VPOO - 011 - matutitoVespertidoVECTORES.pdb

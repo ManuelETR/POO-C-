@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 026 - paisesHabitantesORDENAMIENTO\VPOO - 026 - paisesHabitantesORDENAMIENTO\bin\Debug\VPOO - 026 - paisesHabitantesORDENAMIENTO.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 026 - paisesHabitantesORDENAMIENTO\VPOO - 026 - paisesHabitantesORDENAMIENTO\bin\Debug\VPOO - 026 - paisesHabitantesORDENAMIENTO.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 026 - paisesHabitantesORDENAMIENTO\VPOO - 026 - paisesHabitantesORDENAMIENTO\bin\Debug\VPOO - 026 - paisesHabitantesORDENAMIENTO.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 026 - paisesHabitantesORDENAMIENTO\VPOO - 026 - paisesHabitantesORDENAMIENTO\obj\Debug\VPOO - 026 - paisesHabitantesORDENAMIENTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 026 - paisesHabitantesORDENAMIENTO\VPOO - 026 - paisesHabitantesORDENAMIENTO\obj\Debug\VPOO - 026 - paisesHabitantesORDENAMIENTO.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 026 - paisesHabitantesORDENAMIENTO\VPOO - 026 - paisesHabitantesORDENAMIENTO\obj\Debug\VPOO - 026 - paisesHabitantesORDENAMIENTO.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 026 - paisesHabitantesORDENAMIENTO\VPOO - 026 - paisesHabitantesORDENAMIENTO\obj\Debug\VPOO - 026 - paisesHabitantesORDENAMIENTO.pdb

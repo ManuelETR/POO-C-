@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\bin\Debug\VPOO - 025 - nombresCalificacionesORDENAMIENTO.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\bin\Debug\VPOO - 025 - nombresCalificacionesORDENAMIENTO.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\bin\Debug\VPOO - 025 - nombresCalificacionesORDENAMIENTO.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\obj\Debug\VPOO - 025 - nombresCalificacionesORDENAMIENTO.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\obj\Debug\VPOO - 025 - nombresCalificacionesORDENAMIENTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\obj\Debug\VPOO - 025 - nombresCalificacionesORDENAMIENTO.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\obj\Debug\VPOO - 025 - nombresCalificacionesORDENAMIENTO.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\VPOO - 025 - nombresCalificacionesORDENAMIENTO\obj\Debug\VPOO - 025 - nombresCalificacionesORDENAMIENTO.pdb

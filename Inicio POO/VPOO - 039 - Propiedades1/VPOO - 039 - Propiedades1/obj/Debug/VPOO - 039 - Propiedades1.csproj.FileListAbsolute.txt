@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 039 - Propiedades1\VPOO - 039 - Propiedades1\bin\Debug\VPOO - 039 - Propiedades1.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 039 - Propiedades1\VPOO - 039 - Propiedades1\bin\Debug\VPOO - 039 - Propiedades1.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 039 - Propiedades1\VPOO - 039 - Propiedades1\bin\Debug\VPOO - 039 - Propiedades1.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 039 - Propiedades1\VPOO - 039 - Propiedades1\obj\Debug\VPOO - 039 - Propiedades1.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 039 - Propiedades1\VPOO - 039 - Propiedades1\obj\Debug\VPOO - 039 - Propiedades1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 039 - Propiedades1\VPOO - 039 - Propiedades1\obj\Debug\VPOO - 039 - Propiedades1.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 039 - Propiedades1\VPOO - 039 - Propiedades1\obj\Debug\VPOO - 039 - Propiedades1.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 039 - Propiedades1\VPOO - 039 - Propiedades1\obj\Debug\VPOO - 039 - Propiedades1.pdb

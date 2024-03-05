@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 016 - sueldosLengthVECTORES\VPOO - 016 - sueldosLengthVECTORES\bin\Debug\VPOO - 016 - sueldosLengthVECTORES.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 016 - sueldosLengthVECTORES\VPOO - 016 - sueldosLengthVECTORES\bin\Debug\VPOO - 016 - sueldosLengthVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 016 - sueldosLengthVECTORES\VPOO - 016 - sueldosLengthVECTORES\bin\Debug\VPOO - 016 - sueldosLengthVECTORES.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 016 - sueldosLengthVECTORES\VPOO - 016 - sueldosLengthVECTORES\obj\Debug\VPOO - 016 - sueldosLengthVECTORES.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 016 - sueldosLengthVECTORES\VPOO - 016 - sueldosLengthVECTORES\obj\Debug\VPOO - 016 - sueldosLengthVECTORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 016 - sueldosLengthVECTORES\VPOO - 016 - sueldosLengthVECTORES\obj\Debug\VPOO - 016 - sueldosLengthVECTORES.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 016 - sueldosLengthVECTORES\VPOO - 016 - sueldosLengthVECTORES\obj\Debug\VPOO - 016 - sueldosLengthVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 016 - sueldosLengthVECTORES\VPOO - 016 - sueldosLengthVECTORES\obj\Debug\VPOO - 016 - sueldosLengthVECTORES.pdb

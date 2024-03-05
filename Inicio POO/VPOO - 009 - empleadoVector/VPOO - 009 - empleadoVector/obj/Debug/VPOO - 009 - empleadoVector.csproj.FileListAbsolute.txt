@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 009 - empleadoVector\VPOO - 009 - empleadoVector\bin\Debug\VPOO - 009 - empleadoVector.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 009 - empleadoVector\VPOO - 009 - empleadoVector\bin\Debug\VPOO - 009 - empleadoVector.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 009 - empleadoVector\VPOO - 009 - empleadoVector\bin\Debug\VPOO - 009 - empleadoVector.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 009 - empleadoVector\VPOO - 009 - empleadoVector\obj\Debug\VPOO - 009 - empleadoVector.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 009 - empleadoVector\VPOO - 009 - empleadoVector\obj\Debug\VPOO - 009 - empleadoVector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 009 - empleadoVector\VPOO - 009 - empleadoVector\obj\Debug\VPOO - 009 - empleadoVector.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 009 - empleadoVector\VPOO - 009 - empleadoVector\obj\Debug\VPOO - 009 - empleadoVector.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 009 - empleadoVector\VPOO - 009 - empleadoVector\obj\Debug\VPOO - 009 - empleadoVector.pdb

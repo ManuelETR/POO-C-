@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 028 - nxmMATRIZconORDEN\VPOO - 028 - nxmMATRIZconORDEN\bin\Debug\VPOO - 028 - nxmMATRIZconORDEN.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 028 - nxmMATRIZconORDEN\VPOO - 028 - nxmMATRIZconORDEN\bin\Debug\VPOO - 028 - nxmMATRIZconORDEN.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 028 - nxmMATRIZconORDEN\VPOO - 028 - nxmMATRIZconORDEN\bin\Debug\VPOO - 028 - nxmMATRIZconORDEN.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 028 - nxmMATRIZconORDEN\VPOO - 028 - nxmMATRIZconORDEN\obj\Debug\VPOO - 028 - nxmMATRIZconORDEN.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 028 - nxmMATRIZconORDEN\VPOO - 028 - nxmMATRIZconORDEN\obj\Debug\VPOO - 028 - nxmMATRIZconORDEN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 028 - nxmMATRIZconORDEN\VPOO - 028 - nxmMATRIZconORDEN\obj\Debug\VPOO - 028 - nxmMATRIZconORDEN.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 028 - nxmMATRIZconORDEN\VPOO - 028 - nxmMATRIZconORDEN\obj\Debug\VPOO - 028 - nxmMATRIZconORDEN.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 028 - nxmMATRIZconORDEN\VPOO - 028 - nxmMATRIZconORDEN\obj\Debug\VPOO - 028 - nxmMATRIZconORDEN.pdb

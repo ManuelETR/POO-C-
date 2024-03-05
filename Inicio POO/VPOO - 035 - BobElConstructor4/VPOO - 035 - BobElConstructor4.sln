@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPOO - 035 - BobElConstructor4", "VPOO - 035 - BobElConstructor4\VPOO - 035 - BobElConstructor4.csproj", "{603EB073-0FBE-4F95-954A-7B9A6FCA2BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603EB073-0FBE-4F95-954A-7B9A6FCA2BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603EB073-0FBE-4F95-954A-7B9A6FCA2BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603EB073-0FBE-4F95-954A-7B9A6FCA2BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603EB073-0FBE-4F95-954A-7B9A6FCA2BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5C1D719-DDD3-476E-A3A3-70B683F6D1A3}
+	EndGlobalSection
+EndGlobal

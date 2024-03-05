@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 01 - personaClase\VPOO - 01 - personaClase\bin\Debug\VPOO - 01 - personaClase.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 01 - personaClase\VPOO - 01 - personaClase\bin\Debug\VPOO - 01 - personaClase.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 01 - personaClase\VPOO - 01 - personaClase\bin\Debug\VPOO - 01 - personaClase.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 01 - personaClase\VPOO - 01 - personaClase\obj\Debug\VPOO - 01 - personaClase.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 01 - personaClase\VPOO - 01 - personaClase\obj\Debug\VPOO - 01 - personaClase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 01 - personaClase\VPOO - 01 - personaClase\obj\Debug\VPOO - 01 - personaClase.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 01 - personaClase\VPOO - 01 - personaClase\obj\Debug\VPOO - 01 - personaClase.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 01 - personaClase\VPOO - 01 - personaClase\obj\Debug\VPOO - 01 - personaClase.pdb

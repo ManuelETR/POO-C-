@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 019 - nombreEdadVECTORES\VPOO - 019 - nombreEdadVECTORES\bin\Debug\VPOO - 019 - nombreEdadVECTORES.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 019 - nombreEdadVECTORES\VPOO - 019 - nombreEdadVECTORES\bin\Debug\VPOO - 019 - nombreEdadVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 019 - nombreEdadVECTORES\VPOO - 019 - nombreEdadVECTORES\bin\Debug\VPOO - 019 - nombreEdadVECTORES.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 019 - nombreEdadVECTORES\VPOO - 019 - nombreEdadVECTORES\obj\Debug\VPOO - 019 - nombreEdadVECTORES.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 019 - nombreEdadVECTORES\VPOO - 019 - nombreEdadVECTORES\obj\Debug\VPOO - 019 - nombreEdadVECTORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 019 - nombreEdadVECTORES\VPOO - 019 - nombreEdadVECTORES\obj\Debug\VPOO - 019 - nombreEdadVECTORES.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 019 - nombreEdadVECTORES\VPOO - 019 - nombreEdadVECTORES\obj\Debug\VPOO - 019 - nombreEdadVECTORES.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 019 - nombreEdadVECTORES\VPOO - 019 - nombreEdadVECTORES\obj\Debug\VPOO - 019 - nombreEdadVECTORES.pdb

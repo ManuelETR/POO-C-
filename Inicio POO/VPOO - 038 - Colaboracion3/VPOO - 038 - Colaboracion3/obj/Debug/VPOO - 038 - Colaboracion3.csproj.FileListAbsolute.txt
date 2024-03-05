@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 038 - Colaboracion3\VPOO - 038 - Colaboracion3\bin\Debug\VPOO - 038 - Colaboracion3.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 038 - Colaboracion3\VPOO - 038 - Colaboracion3\bin\Debug\VPOO - 038 - Colaboracion3.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 038 - Colaboracion3\VPOO - 038 - Colaboracion3\bin\Debug\VPOO - 038 - Colaboracion3.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 038 - Colaboracion3\VPOO - 038 - Colaboracion3\obj\Debug\VPOO - 038 - Colaboracion3.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 038 - Colaboracion3\VPOO - 038 - Colaboracion3\obj\Debug\VPOO - 038 - Colaboracion3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 038 - Colaboracion3\VPOO - 038 - Colaboracion3\obj\Debug\VPOO - 038 - Colaboracion3.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 038 - Colaboracion3\VPOO - 038 - Colaboracion3\obj\Debug\VPOO - 038 - Colaboracion3.exe
+C:\Users\Manuel\Desktop\Trabajos C#\Inicio POO\VPOO - 038 - Colaboracion3\VPOO - 038 - Colaboracion3\obj\Debug\VPOO - 038 - Colaboracion3.pdb
