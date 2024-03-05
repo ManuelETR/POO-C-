@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 010 - Operaciones Condiconales\POO - 010 - Operaciones Condiconales\bin\Debug\POO - 010 - Operaciones Condiconales.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 010 - Operaciones Condiconales\POO - 010 - Operaciones Condiconales\bin\Debug\POO - 010 - Operaciones Condiconales.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 010 - Operaciones Condiconales\POO - 010 - Operaciones Condiconales\bin\Debug\POO - 010 - Operaciones Condiconales.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 010 - Operaciones Condiconales\POO - 010 - Operaciones Condiconales\obj\Debug\POO - 010 - Operaciones Condiconales.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 010 - Operaciones Condiconales\POO - 010 - Operaciones Condiconales\obj\Debug\POO - 010 - Operaciones Condiconales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 010 - Operaciones Condiconales\POO - 010 - Operaciones Condiconales\obj\Debug\POO - 010 - Operaciones Condiconales.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 010 - Operaciones Condiconales\POO - 010 - Operaciones Condiconales\obj\Debug\POO - 010 - Operaciones Condiconales.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 010 - Operaciones Condiconales\POO - 010 - Operaciones Condiconales\obj\Debug\POO - 010 - Operaciones Condiconales.pdb

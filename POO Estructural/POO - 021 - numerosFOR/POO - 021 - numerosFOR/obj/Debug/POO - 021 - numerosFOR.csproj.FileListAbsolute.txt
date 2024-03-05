@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 021 - numerosFOR\POO - 021 - numerosFOR\bin\Debug\POO - 021 - numerosFOR.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 021 - numerosFOR\POO - 021 - numerosFOR\bin\Debug\POO - 021 - numerosFOR.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 021 - numerosFOR\POO - 021 - numerosFOR\bin\Debug\POO - 021 - numerosFOR.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 021 - numerosFOR\POO - 021 - numerosFOR\obj\Debug\POO - 021 - numerosFOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 021 - numerosFOR\POO - 021 - numerosFOR\obj\Debug\POO - 021 - numerosFOR.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 021 - numerosFOR\POO - 021 - numerosFOR\obj\Debug\POO - 021 - numerosFOR.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 021 - numerosFOR\POO - 021 - numerosFOR\obj\Debug\POO - 021 - numerosFOR.pdb

@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 003 - Suma y Producto\POO - 003 - Suma y Producto\bin\Debug\POO - 003 - Suma y Producto.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 003 - Suma y Producto\POO - 003 - Suma y Producto\bin\Debug\POO - 003 - Suma y Producto.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 003 - Suma y Producto\POO - 003 - Suma y Producto\bin\Debug\POO - 003 - Suma y Producto.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 003 - Suma y Producto\POO - 003 - Suma y Producto\obj\Debug\POO - 003 - Suma y Producto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 003 - Suma y Producto\POO - 003 - Suma y Producto\obj\Debug\POO - 003 - Suma y Producto.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 003 - Suma y Producto\POO - 003 - Suma y Producto\obj\Debug\POO - 003 - Suma y Producto.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 003 - Suma y Producto\POO - 003 - Suma y Producto\obj\Debug\POO - 003 - Suma y Producto.pdb

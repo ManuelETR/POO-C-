@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 023 - notasAlumnosFOR\POO - 023 - notasAlumnosFOR\bin\Debug\POO - 023 - notasAlumnosFOR.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 023 - notasAlumnosFOR\POO - 023 - notasAlumnosFOR\bin\Debug\POO - 023 - notasAlumnosFOR.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 023 - notasAlumnosFOR\POO - 023 - notasAlumnosFOR\bin\Debug\POO - 023 - notasAlumnosFOR.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 023 - notasAlumnosFOR\POO - 023 - notasAlumnosFOR\obj\Debug\POO - 023 - notasAlumnosFOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 023 - notasAlumnosFOR\POO - 023 - notasAlumnosFOR\obj\Debug\POO - 023 - notasAlumnosFOR.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 023 - notasAlumnosFOR\POO - 023 - notasAlumnosFOR\obj\Debug\POO - 023 - notasAlumnosFOR.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 023 - notasAlumnosFOR\POO - 023 - notasAlumnosFOR\obj\Debug\POO - 023 - notasAlumnosFOR.pdb

@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 002 - SuperficieCuadrado\POO - 002 - SuperficieCuadrado\bin\Debug\POO - 002 - SuperficieCuadrado.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 002 - SuperficieCuadrado\POO - 002 - SuperficieCuadrado\bin\Debug\POO - 002 - SuperficieCuadrado.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 002 - SuperficieCuadrado\POO - 002 - SuperficieCuadrado\bin\Debug\POO - 002 - SuperficieCuadrado.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 002 - SuperficieCuadrado\POO - 002 - SuperficieCuadrado\obj\Debug\POO - 002 - SuperficieCuadrado.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 002 - SuperficieCuadrado\POO - 002 - SuperficieCuadrado\obj\Debug\POO - 002 - SuperficieCuadrado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 002 - SuperficieCuadrado\POO - 002 - SuperficieCuadrado\obj\Debug\POO - 002 - SuperficieCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 002 - SuperficieCuadrado\POO - 002 - SuperficieCuadrado\obj\Debug\POO - 002 - SuperficieCuadrado.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 002 - SuperficieCuadrado\POO - 002 - SuperficieCuadrado\obj\Debug\POO - 002 - SuperficieCuadrado.pdb

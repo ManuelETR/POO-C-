@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO - 018 - numerosInputWhile", "POO - 018 - numerosInputWhile\POO - 018 - numerosInputWhile.csproj", "{DD345DD8-1001-4791-B1CB-0CDC7B4BE992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD345DD8-1001-4791-B1CB-0CDC7B4BE992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD345DD8-1001-4791-B1CB-0CDC7B4BE992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD345DD8-1001-4791-B1CB-0CDC7B4BE992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD345DD8-1001-4791-B1CB-0CDC7B4BE992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90676790-3BE4-4CBD-B7AF-19977D710FFA}
+	EndGlobalSection
+EndGlobal

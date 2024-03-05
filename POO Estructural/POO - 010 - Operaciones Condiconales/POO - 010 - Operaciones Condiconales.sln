@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO - 010 - Operaciones Condiconales", "POO - 010 - Operaciones Condiconales\POO - 010 - Operaciones Condiconales.csproj", "{70242233-F33D-4E3A-B9DF-F6EBD99205C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70242233-F33D-4E3A-B9DF-F6EBD99205C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70242233-F33D-4E3A-B9DF-F6EBD99205C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70242233-F33D-4E3A-B9DF-F6EBD99205C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70242233-F33D-4E3A-B9DF-F6EBD99205C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C40DD72-9D55-4EC4-956F-C20CCAB69E21}
+	EndGlobalSection
+EndGlobal

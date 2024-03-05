@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 029 - nombresCadena\POO - 029 - nombresCadena\bin\Debug\POO - 029 - nombresCadena.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 029 - nombresCadena\POO - 029 - nombresCadena\bin\Debug\POO - 029 - nombresCadena.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 029 - nombresCadena\POO - 029 - nombresCadena\bin\Debug\POO - 029 - nombresCadena.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 029 - nombresCadena\POO - 029 - nombresCadena\obj\Debug\POO - 029 - nombresCadena.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 029 - nombresCadena\POO - 029 - nombresCadena\obj\Debug\POO - 029 - nombresCadena.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 029 - nombresCadena\POO - 029 - nombresCadena\obj\Debug\POO - 029 - nombresCadena.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 029 - nombresCadena\POO - 029 - nombresCadena\obj\Debug\POO - 029 - nombresCadena.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 029 - nombresCadena\POO - 029 - nombresCadena\obj\Debug\POO - 029 - nombresCadena.pdb

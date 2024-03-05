@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 013 - AlumnoAnidado\POO - 013 - AlumnoAnidado\bin\Debug\POO - 013 - AlumnoAnidado.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 013 - AlumnoAnidado\POO - 013 - AlumnoAnidado\bin\Debug\POO - 013 - AlumnoAnidado.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 013 - AlumnoAnidado\POO - 013 - AlumnoAnidado\bin\Debug\POO - 013 - AlumnoAnidado.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 013 - AlumnoAnidado\POO - 013 - AlumnoAnidado\obj\Debug\POO - 013 - AlumnoAnidado.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 013 - AlumnoAnidado\POO - 013 - AlumnoAnidado\obj\Debug\POO - 013 - AlumnoAnidado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 013 - AlumnoAnidado\POO - 013 - AlumnoAnidado\obj\Debug\POO - 013 - AlumnoAnidado.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 013 - AlumnoAnidado\POO - 013 - AlumnoAnidado\obj\Debug\POO - 013 - AlumnoAnidado.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 013 - AlumnoAnidado\POO - 013 - AlumnoAnidado\obj\Debug\POO - 013 - AlumnoAnidado.pdb

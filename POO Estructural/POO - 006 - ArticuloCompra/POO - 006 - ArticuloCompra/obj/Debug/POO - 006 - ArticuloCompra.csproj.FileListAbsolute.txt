@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 006 - ArticuloCompra\POO - 006 - ArticuloCompra\bin\Debug\POO - 006 - ArticuloCompra.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 006 - ArticuloCompra\POO - 006 - ArticuloCompra\bin\Debug\POO - 006 - ArticuloCompra.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 006 - ArticuloCompra\POO - 006 - ArticuloCompra\bin\Debug\POO - 006 - ArticuloCompra.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 006 - ArticuloCompra\POO - 006 - ArticuloCompra\obj\Debug\POO - 006 - ArticuloCompra.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 006 - ArticuloCompra\POO - 006 - ArticuloCompra\obj\Debug\POO - 006 - ArticuloCompra.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 006 - ArticuloCompra\POO - 006 - ArticuloCompra\obj\Debug\POO - 006 - ArticuloCompra.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 006 - ArticuloCompra\POO - 006 - ArticuloCompra\obj\Debug\POO - 006 - ArticuloCompra.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 006 - ArticuloCompra\POO - 006 - ArticuloCompra\obj\Debug\POO - 006 - ArticuloCompra.pdb

@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 019 - sumaPromedioWhile\POO - 019 - sumaPromedioWhile\bin\Debug\POO - 019 - sumaPromedioWhile.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 019 - sumaPromedioWhile\POO - 019 - sumaPromedioWhile\bin\Debug\POO - 019 - sumaPromedioWhile.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 019 - sumaPromedioWhile\POO - 019 - sumaPromedioWhile\bin\Debug\POO - 019 - sumaPromedioWhile.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 019 - sumaPromedioWhile\POO - 019 - sumaPromedioWhile\obj\Debug\POO - 019 - sumaPromedioWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 019 - sumaPromedioWhile\POO - 019 - sumaPromedioWhile\obj\Debug\POO - 019 - sumaPromedioWhile.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 019 - sumaPromedioWhile\POO - 019 - sumaPromedioWhile\obj\Debug\POO - 019 - sumaPromedioWhile.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 019 - sumaPromedioWhile\POO - 019 - sumaPromedioWhile\obj\Debug\POO - 019 - sumaPromedioWhile.pdb

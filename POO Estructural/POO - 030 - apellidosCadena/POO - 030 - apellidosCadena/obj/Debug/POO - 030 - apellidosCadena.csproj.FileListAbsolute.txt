@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 030 - apellidosCadena\POO - 030 - apellidosCadena\bin\Debug\POO - 030 - apellidosCadena.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 030 - apellidosCadena\POO - 030 - apellidosCadena\bin\Debug\POO - 030 - apellidosCadena.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 030 - apellidosCadena\POO - 030 - apellidosCadena\bin\Debug\POO - 030 - apellidosCadena.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 030 - apellidosCadena\POO - 030 - apellidosCadena\obj\Debug\POO - 030 - apellidosCadena.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 030 - apellidosCadena\POO - 030 - apellidosCadena\obj\Debug\POO - 030 - apellidosCadena.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 030 - apellidosCadena\POO - 030 - apellidosCadena\obj\Debug\POO - 030 - apellidosCadena.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 030 - apellidosCadena\POO - 030 - apellidosCadena\obj\Debug\POO - 030 - apellidosCadena.pdb

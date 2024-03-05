@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 027 - piezasKgDoWhile\POO - 027 - piezasKgDoWhile\bin\Debug\POO - 027 - piezasKgDoWhile.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 027 - piezasKgDoWhile\POO - 027 - piezasKgDoWhile\bin\Debug\POO - 027 - piezasKgDoWhile.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 027 - piezasKgDoWhile\POO - 027 - piezasKgDoWhile\bin\Debug\POO - 027 - piezasKgDoWhile.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 027 - piezasKgDoWhile\POO - 027 - piezasKgDoWhile\obj\Debug\POO - 027 - piezasKgDoWhile.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 027 - piezasKgDoWhile\POO - 027 - piezasKgDoWhile\obj\Debug\POO - 027 - piezasKgDoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 027 - piezasKgDoWhile\POO - 027 - piezasKgDoWhile\obj\Debug\POO - 027 - piezasKgDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 027 - piezasKgDoWhile\POO - 027 - piezasKgDoWhile\obj\Debug\POO - 027 - piezasKgDoWhile.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 027 - piezasKgDoWhile\POO - 027 - piezasKgDoWhile\obj\Debug\POO - 027 - piezasKgDoWhile.pdb

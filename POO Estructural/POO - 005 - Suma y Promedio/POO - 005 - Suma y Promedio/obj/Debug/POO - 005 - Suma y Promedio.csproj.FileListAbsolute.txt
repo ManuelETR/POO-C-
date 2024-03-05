@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 005 - Suma y Promedio\POO - 005 - Suma y Promedio\bin\Debug\POO - 005 - Suma y Promedio.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 005 - Suma y Promedio\POO - 005 - Suma y Promedio\bin\Debug\POO - 005 - Suma y Promedio.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 005 - Suma y Promedio\POO - 005 - Suma y Promedio\bin\Debug\POO - 005 - Suma y Promedio.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 005 - Suma y Promedio\POO - 005 - Suma y Promedio\obj\Debug\POO - 005 - Suma y Promedio.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 005 - Suma y Promedio\POO - 005 - Suma y Promedio\obj\Debug\POO - 005 - Suma y Promedio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 005 - Suma y Promedio\POO - 005 - Suma y Promedio\obj\Debug\POO - 005 - Suma y Promedio.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 005 - Suma y Promedio\POO - 005 - Suma y Promedio\obj\Debug\POO - 005 - Suma y Promedio.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 005 - Suma y Promedio\POO - 005 - Suma y Promedio\obj\Debug\POO - 005 - Suma y Promedio.pdb

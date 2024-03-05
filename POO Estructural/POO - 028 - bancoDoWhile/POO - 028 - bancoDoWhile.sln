@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO - 028 - bancoDoWhile", "POO - 028 - bancoDoWhile\POO - 028 - bancoDoWhile.csproj", "{C1CA272E-2FC8-4B42-ADE4-76322BDC84A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1CA272E-2FC8-4B42-ADE4-76322BDC84A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1CA272E-2FC8-4B42-ADE4-76322BDC84A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1CA272E-2FC8-4B42-ADE4-76322BDC84A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1CA272E-2FC8-4B42-ADE4-76322BDC84A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0424FAB1-08CC-4A2B-82FD-9B7FA6ABCD13}
+	EndGlobalSection
+EndGlobal

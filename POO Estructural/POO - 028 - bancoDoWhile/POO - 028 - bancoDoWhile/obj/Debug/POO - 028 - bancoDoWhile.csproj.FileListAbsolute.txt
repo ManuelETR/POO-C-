@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 028 - bancoDoWhile\POO - 028 - bancoDoWhile\bin\Debug\POO - 028 - bancoDoWhile.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 028 - bancoDoWhile\POO - 028 - bancoDoWhile\bin\Debug\POO - 028 - bancoDoWhile.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 028 - bancoDoWhile\POO - 028 - bancoDoWhile\bin\Debug\POO - 028 - bancoDoWhile.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 028 - bancoDoWhile\POO - 028 - bancoDoWhile\obj\Debug\POO - 028 - bancoDoWhile.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 028 - bancoDoWhile\POO - 028 - bancoDoWhile\obj\Debug\POO - 028 - bancoDoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 028 - bancoDoWhile\POO - 028 - bancoDoWhile\obj\Debug\POO - 028 - bancoDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 028 - bancoDoWhile\POO - 028 - bancoDoWhile\obj\Debug\POO - 028 - bancoDoWhile.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 028 - bancoDoWhile\POO - 028 - bancoDoWhile\obj\Debug\POO - 028 - bancoDoWhile.pdb

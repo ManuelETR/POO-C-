@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 007 - PerimetroCuadrado\POO - 007 - PerimetroCuadrado\bin\Debug\POO - 007 - PerimetroCuadrado.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 007 - PerimetroCuadrado\POO - 007 - PerimetroCuadrado\bin\Debug\POO - 007 - PerimetroCuadrado.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 007 - PerimetroCuadrado\POO - 007 - PerimetroCuadrado\bin\Debug\POO - 007 - PerimetroCuadrado.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 007 - PerimetroCuadrado\POO - 007 - PerimetroCuadrado\obj\Debug\POO - 007 - PerimetroCuadrado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 007 - PerimetroCuadrado\POO - 007 - PerimetroCuadrado\obj\Debug\POO - 007 - PerimetroCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 007 - PerimetroCuadrado\POO - 007 - PerimetroCuadrado\obj\Debug\POO - 007 - PerimetroCuadrado.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 007 - PerimetroCuadrado\POO - 007 - PerimetroCuadrado\obj\Debug\POO - 007 - PerimetroCuadrado.pdb

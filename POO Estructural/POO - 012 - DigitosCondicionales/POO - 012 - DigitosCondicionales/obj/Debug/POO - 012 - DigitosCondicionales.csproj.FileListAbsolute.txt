@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 012 - DigitosCondicionales\POO - 012 - DigitosCondicionales\bin\Debug\POO - 012 - DigitosCondicionales.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 012 - DigitosCondicionales\POO - 012 - DigitosCondicionales\bin\Debug\POO - 012 - DigitosCondicionales.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 012 - DigitosCondicionales\POO - 012 - DigitosCondicionales\bin\Debug\POO - 012 - DigitosCondicionales.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 012 - DigitosCondicionales\POO - 012 - DigitosCondicionales\obj\Debug\POO - 012 - DigitosCondicionales.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 012 - DigitosCondicionales\POO - 012 - DigitosCondicionales\obj\Debug\POO - 012 - DigitosCondicionales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 012 - DigitosCondicionales\POO - 012 - DigitosCondicionales\obj\Debug\POO - 012 - DigitosCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 012 - DigitosCondicionales\POO - 012 - DigitosCondicionales\obj\Debug\POO - 012 - DigitosCondicionales.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 012 - DigitosCondicionales\POO - 012 - DigitosCondicionales\obj\Debug\POO - 012 - DigitosCondicionales.pdb

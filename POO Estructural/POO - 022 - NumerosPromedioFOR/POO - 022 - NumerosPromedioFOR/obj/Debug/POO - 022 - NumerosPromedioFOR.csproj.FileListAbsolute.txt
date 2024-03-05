@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 022 - NumerosPromedioFOR\POO - 022 - NumerosPromedioFOR\bin\Debug\POO - 022 - NumerosPromedioFOR.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 022 - NumerosPromedioFOR\POO - 022 - NumerosPromedioFOR\bin\Debug\POO - 022 - NumerosPromedioFOR.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 022 - NumerosPromedioFOR\POO - 022 - NumerosPromedioFOR\bin\Debug\POO - 022 - NumerosPromedioFOR.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 022 - NumerosPromedioFOR\POO - 022 - NumerosPromedioFOR\obj\Debug\POO - 022 - NumerosPromedioFOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 022 - NumerosPromedioFOR\POO - 022 - NumerosPromedioFOR\obj\Debug\POO - 022 - NumerosPromedioFOR.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 022 - NumerosPromedioFOR\POO - 022 - NumerosPromedioFOR\obj\Debug\POO - 022 - NumerosPromedioFOR.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 022 - NumerosPromedioFOR\POO - 022 - NumerosPromedioFOR\obj\Debug\POO - 022 - NumerosPromedioFOR.pdb

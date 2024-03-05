@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 020 - numerosParesImparesWhile\POO - 020 - numerosParesImparesWhile\bin\Debug\POO - 020 - numerosParesImparesWhile.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 020 - numerosParesImparesWhile\POO - 020 - numerosParesImparesWhile\bin\Debug\POO - 020 - numerosParesImparesWhile.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 020 - numerosParesImparesWhile\POO - 020 - numerosParesImparesWhile\bin\Debug\POO - 020 - numerosParesImparesWhile.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 020 - numerosParesImparesWhile\POO - 020 - numerosParesImparesWhile\obj\Debug\POO - 020 - numerosParesImparesWhile.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 020 - numerosParesImparesWhile\POO - 020 - numerosParesImparesWhile\obj\Debug\POO - 020 - numerosParesImparesWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 020 - numerosParesImparesWhile\POO - 020 - numerosParesImparesWhile\obj\Debug\POO - 020 - numerosParesImparesWhile.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 020 - numerosParesImparesWhile\POO - 020 - numerosParesImparesWhile\obj\Debug\POO - 020 - numerosParesImparesWhile.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 020 - numerosParesImparesWhile\POO - 020 - numerosParesImparesWhile\obj\Debug\POO - 020 - numerosParesImparesWhile.pdb

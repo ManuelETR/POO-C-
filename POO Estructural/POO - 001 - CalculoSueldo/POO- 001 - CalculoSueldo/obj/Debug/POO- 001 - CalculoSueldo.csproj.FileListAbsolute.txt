@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO- 001 - CalculoSueldo\POO- 001 - CalculoSueldo\bin\Debug\POO- 001 - CalculoSueldo.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO- 001 - CalculoSueldo\POO- 001 - CalculoSueldo\bin\Debug\POO- 001 - CalculoSueldo.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO- 001 - CalculoSueldo\POO- 001 - CalculoSueldo\bin\Debug\POO- 001 - CalculoSueldo.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO- 001 - CalculoSueldo\POO- 001 - CalculoSueldo\obj\Debug\POO- 001 - CalculoSueldo.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO- 001 - CalculoSueldo\POO- 001 - CalculoSueldo\obj\Debug\POO- 001 - CalculoSueldo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO- 001 - CalculoSueldo\POO- 001 - CalculoSueldo\obj\Debug\POO- 001 - CalculoSueldo.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO- 001 - CalculoSueldo\POO- 001 - CalculoSueldo\obj\Debug\POO- 001 - CalculoSueldo.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO- 001 - CalculoSueldo\POO- 001 - CalculoSueldo\obj\Debug\POO- 001 - CalculoSueldo.pdb

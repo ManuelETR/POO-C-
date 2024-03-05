@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 008 - PagoImpuesto\POO - 008 - PagoImpuesto\bin\Debug\POO - 008 - PagoImpuesto.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 008 - PagoImpuesto\POO - 008 - PagoImpuesto\bin\Debug\POO - 008 - PagoImpuesto.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 008 - PagoImpuesto\POO - 008 - PagoImpuesto\bin\Debug\POO - 008 - PagoImpuesto.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 008 - PagoImpuesto\POO - 008 - PagoImpuesto\obj\Debug\POO - 008 - PagoImpuesto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 008 - PagoImpuesto\POO - 008 - PagoImpuesto\obj\Debug\POO - 008 - PagoImpuesto.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 008 - PagoImpuesto\POO - 008 - PagoImpuesto\obj\Debug\POO - 008 - PagoImpuesto.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 008 - PagoImpuesto\POO - 008 - PagoImpuesto\obj\Debug\POO - 008 - PagoImpuesto.pdb

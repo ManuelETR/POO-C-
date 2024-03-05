@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 017 - 100NumerosWhile\POO - 017 - 100NumerosWhile\bin\Debug\POO - 017 - 100NumerosWhile.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 017 - 100NumerosWhile\POO - 017 - 100NumerosWhile\bin\Debug\POO - 017 - 100NumerosWhile.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 017 - 100NumerosWhile\POO - 017 - 100NumerosWhile\bin\Debug\POO - 017 - 100NumerosWhile.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 017 - 100NumerosWhile\POO - 017 - 100NumerosWhile\obj\Debug\POO - 017 - 100NumerosWhile.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 017 - 100NumerosWhile\POO - 017 - 100NumerosWhile\obj\Debug\POO - 017 - 100NumerosWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 017 - 100NumerosWhile\POO - 017 - 100NumerosWhile\obj\Debug\POO - 017 - 100NumerosWhile.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 017 - 100NumerosWhile\POO - 017 - 100NumerosWhile\obj\Debug\POO - 017 - 100NumerosWhile.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 017 - 100NumerosWhile\POO - 017 - 100NumerosWhile\obj\Debug\POO - 017 - 100NumerosWhile.pdb

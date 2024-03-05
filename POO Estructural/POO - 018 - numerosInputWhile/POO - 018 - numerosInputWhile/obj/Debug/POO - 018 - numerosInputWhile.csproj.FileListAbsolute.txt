@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 018 - numerosInputWhile\POO - 018 - numerosInputWhile\bin\Debug\POO - 018 - numerosInputWhile.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 018 - numerosInputWhile\POO - 018 - numerosInputWhile\bin\Debug\POO - 018 - numerosInputWhile.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 018 - numerosInputWhile\POO - 018 - numerosInputWhile\bin\Debug\POO - 018 - numerosInputWhile.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 018 - numerosInputWhile\POO - 018 - numerosInputWhile\obj\Debug\POO - 018 - numerosInputWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 018 - numerosInputWhile\POO - 018 - numerosInputWhile\obj\Debug\POO - 018 - numerosInputWhile.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 018 - numerosInputWhile\POO - 018 - numerosInputWhile\obj\Debug\POO - 018 - numerosInputWhile.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 018 - numerosInputWhile\POO - 018 - numerosInputWhile\obj\Debug\POO - 018 - numerosInputWhile.pdb

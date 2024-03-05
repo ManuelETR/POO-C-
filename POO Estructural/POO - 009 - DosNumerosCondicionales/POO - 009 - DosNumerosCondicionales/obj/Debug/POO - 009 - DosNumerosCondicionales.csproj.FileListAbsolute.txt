@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 009 - DosNumerosCondicionales\POO - 009 - DosNumerosCondicionales\bin\Debug\POO - 009 - DosNumerosCondicionales.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 009 - DosNumerosCondicionales\POO - 009 - DosNumerosCondicionales\bin\Debug\POO - 009 - DosNumerosCondicionales.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 009 - DosNumerosCondicionales\POO - 009 - DosNumerosCondicionales\bin\Debug\POO - 009 - DosNumerosCondicionales.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 009 - DosNumerosCondicionales\POO - 009 - DosNumerosCondicionales\obj\Debug\POO - 009 - DosNumerosCondicionales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 009 - DosNumerosCondicionales\POO - 009 - DosNumerosCondicionales\obj\Debug\POO - 009 - DosNumerosCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 009 - DosNumerosCondicionales\POO - 009 - DosNumerosCondicionales\obj\Debug\POO - 009 - DosNumerosCondicionales.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 009 - DosNumerosCondicionales\POO - 009 - DosNumerosCondicionales\obj\Debug\POO - 009 - DosNumerosCondicionales.pdb

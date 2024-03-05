@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 016 - SueldoEmpleadoCondicional\POO - 016 - SueldoEmpleadoCondicional\bin\Debug\POO - 016 - SueldoEmpleadoCondicional.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 016 - SueldoEmpleadoCondicional\POO - 016 - SueldoEmpleadoCondicional\bin\Debug\POO - 016 - SueldoEmpleadoCondicional.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 016 - SueldoEmpleadoCondicional\POO - 016 - SueldoEmpleadoCondicional\bin\Debug\POO - 016 - SueldoEmpleadoCondicional.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 016 - SueldoEmpleadoCondicional\POO - 016 - SueldoEmpleadoCondicional\obj\Debug\POO - 016 - SueldoEmpleadoCondicional.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 016 - SueldoEmpleadoCondicional\POO - 016 - SueldoEmpleadoCondicional\obj\Debug\POO - 016 - SueldoEmpleadoCondicional.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 016 - SueldoEmpleadoCondicional\POO - 016 - SueldoEmpleadoCondicional\obj\Debug\POO - 016 - SueldoEmpleadoCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 016 - SueldoEmpleadoCondicional\POO - 016 - SueldoEmpleadoCondicional\obj\Debug\POO - 016 - SueldoEmpleadoCondicional.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 016 - SueldoEmpleadoCondicional\POO - 016 - SueldoEmpleadoCondicional\obj\Debug\POO - 016 - SueldoEmpleadoCondicional.pdb

@@ -1,0 +1,8 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 011 - AlumnoCondicional\POO - 011 - AlumnoCondicional\bin\Debug\POO - 011 - AlumnoCondicional.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 011 - AlumnoCondicional\POO - 011 - AlumnoCondicional\bin\Debug\POO - 011 - AlumnoCondicional.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 011 - AlumnoCondicional\POO - 011 - AlumnoCondicional\bin\Debug\POO - 011 - AlumnoCondicional.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 011 - AlumnoCondicional\POO - 011 - AlumnoCondicional\obj\Debug\POO - 011 - AlumnoCondicional.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 011 - AlumnoCondicional\POO - 011 - AlumnoCondicional\obj\Debug\POO - 011 - AlumnoCondicional.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 011 - AlumnoCondicional\POO - 011 - AlumnoCondicional\obj\Debug\POO - 011 - AlumnoCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 011 - AlumnoCondicional\POO - 011 - AlumnoCondicional\obj\Debug\POO - 011 - AlumnoCondicional.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 011 - AlumnoCondicional\POO - 011 - AlumnoCondicional\obj\Debug\POO - 011 - AlumnoCondicional.pdb

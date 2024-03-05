@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 004 - CuatroNumeros\POO - 004 - CuatroNumeros\bin\Debug\POO - 004 - CuatroNumeros.exe.config
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 004 - CuatroNumeros\POO - 004 - CuatroNumeros\bin\Debug\POO - 004 - CuatroNumeros.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 004 - CuatroNumeros\POO - 004 - CuatroNumeros\bin\Debug\POO - 004 - CuatroNumeros.pdb
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 004 - CuatroNumeros\POO - 004 - CuatroNumeros\obj\Debug\POO - 004 - CuatroNumeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 004 - CuatroNumeros\POO - 004 - CuatroNumeros\obj\Debug\POO - 004 - CuatroNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 004 - CuatroNumeros\POO - 004 - CuatroNumeros\obj\Debug\POO - 004 - CuatroNumeros.exe
+C:\Users\Manuel\Desktop\Trabajos C#\POO - 004 - CuatroNumeros\POO - 004 - CuatroNumeros\obj\Debug\POO - 004 - CuatroNumeros.pdb
